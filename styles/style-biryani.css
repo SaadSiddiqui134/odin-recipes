@@ -2,3 +2,25 @@
     color: chocolate;
     font-size: 50px;
 }
+
+.biryani-body{
+    background-color:burlywood;
+    font-size: 20px;
+    
+}
+
+hr{
+    border-style:ridge;
+    color: white;
+}
+
+.biryani-body .Ingredients{
+    font-size: 35px;
+    color: chocolate;
+}
+
+.biryani-body .steps{
+    font-size: 35px;
+    color: chocolate;
+}
+
